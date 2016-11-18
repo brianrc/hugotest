@@ -1,4 +1,4 @@
-baseurl = "http://hugotest.dev"
+baseurl = "https://brianrc.github.io/hugotest/"
 title = "My New Awesome Site"
 canonifyurls = true
 paginate = 10
